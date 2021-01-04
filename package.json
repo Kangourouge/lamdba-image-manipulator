@@ -1,0 +1,16 @@
+{
+  "name": "lambda_function",
+  "version": "1.0.0",
+  "description": "custom function for lambda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.0",
+    "aws-sdk": "^2.725.0",
+    "sharp": "^0.25.4"
+  }
+}
